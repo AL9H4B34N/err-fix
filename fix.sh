@@ -1,5 +1,5 @@
 
-apt install figlet
+
 
   
 echo -e " \e[99m\e[1;96m
