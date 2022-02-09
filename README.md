@@ -1,4 +1,4 @@
-# TERMUX ERROR FIXER*
+# TERMUX ERROR FIXER
 
 # $ apt update
 # $ git clone https://github.com/AL9H4B34N/err-fix```
